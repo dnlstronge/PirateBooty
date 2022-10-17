@@ -1,0 +1,1 @@
+Simple task to find co-ordinates on a map using JS + mousemmove event
